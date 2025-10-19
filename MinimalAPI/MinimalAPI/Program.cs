@@ -11,7 +11,7 @@ var app = builder.Build();
 
 
 
-app.MapGet("/tasks", async (ITSupportDbContext db) =>
+app.MapGet("/api/tasks", async (ITSupportDbContext db) =>
     await db.Tickets.ToListAsync());
 
 app.Run();
