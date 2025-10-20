@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using MinimalAPI.ServiceLocator.Services.Contracts;
-using MinimalAPI.Models;
+using MinimalAPI.Model;
 
 namespace MinimalAPI.ServiceLocator.ServiceFactory
 {
@@ -17,7 +17,7 @@ namespace MinimalAPI.ServiceLocator.ServiceFactory
             try
             {
                 var serviceKey = char.ToUpper(key[0]) + key.Substring(1);
-                var dtoType = Type.GetType($"PAW3.Models.DTOs.{serviceKey}DTO, PAW3.Models");
+                var dtoType = Type.GetType($"MinimalAPI.Models.DTOs.{serviceKey}DTO, MinimalAPI.Models");
 
                 if (dtoType == null)
                     throw new ArgumentException($"DTO not found for key '{key}'");

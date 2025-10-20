@@ -1,4 +1,3 @@
-using MinimalAPI.Architecture.Providers;
 using MinimalAPI.ServiceLocator.ServiceFactory;
 using MinimalAPI.ServiceLocator.Services;
 

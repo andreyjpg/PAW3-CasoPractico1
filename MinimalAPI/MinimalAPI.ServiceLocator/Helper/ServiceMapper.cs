@@ -1,5 +1,7 @@
-﻿
-namespace MnimalAPI.ServiceLocator.Helper;
+﻿using MinimalAPI.ServiceLocator.DTOs;
+using MinimalAPI.ServiceLocator.Services.Contracts;
+
+namespace MinimalAPI.ServiceLocator.Helper;
 
 public interface IServiceMapper
 {

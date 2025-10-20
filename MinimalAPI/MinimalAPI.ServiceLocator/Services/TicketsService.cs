@@ -1,7 +1,6 @@
-﻿using MinimalAPI.MinimalAPI.ServiceLocator.Services.Contracts;
-using MinimalAPI.MinimalAPI.Architecture.Providers;
-using MinimalAPI.MinimalAPI.Core.DTOs;
-using MinimalAPI.MinimalAPI.Architecture;
+﻿using MinimalAPI.ServiceLocator.Services.Contracts;
+using MinimalAPI.Architecture.Providers;
+using MinimalAPI.Core.DTOs;
 
 namespace MinimalAPI.ServiceLocator.Services;
 

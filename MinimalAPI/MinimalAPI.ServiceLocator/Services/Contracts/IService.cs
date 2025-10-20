@@ -1,4 +1,4 @@
-﻿namespace MinimalAPI.MinimalAPI.ServiceLocator.Services.Contracts;
+﻿namespace MinimalAPI.ServiceLocator.Services.Contracts;
 
 public interface IService<T>
 {

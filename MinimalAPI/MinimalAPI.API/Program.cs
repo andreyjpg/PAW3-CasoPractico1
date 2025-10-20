@@ -1,3 +1,7 @@
+using MinimalAPI.Core.BusinessLogic;
+using MinimalAPI.Data.Repositories;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +10,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ITicketBusiness, TicketBusiness>();
+builder.Services.AddScoped<IRepositoryTicket, RepositoryTicket>();
 
 var app = builder.Build();
 

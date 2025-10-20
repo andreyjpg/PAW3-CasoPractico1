@@ -3,76 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\services\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\services\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\services\\ticketsreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\services\\ticketsreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\helper\\servicemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\helper\\servicemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C80D57-FAF3-48A0-9A3E-280CB68EA0F4}|MnimalAPI.Core\\MnimalAPI.Core.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\mnimalapi.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C80D57-FAF3-48A0-9A3E-280CB68EA0F4}|MnimalAPI.Core\\MnimalAPI.Core.csproj|solutionrelative:mnimalapi.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\servicefactory\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\servicefactory\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\servicefactory\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\servicefactory\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A68AB13-BB7B-486D-8402-798DC78E1C77}|MinimalAPI.API\\MinimalAPI.API.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A68AB13-BB7B-486D-8402-798DC78E1C77}|MinimalAPI.API\\MinimalAPI.API.csproj|solutionrelative:minimalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\controllers\\servicecontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\controllers\\servicecontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A68AB13-BB7B-486D-8402-798DC78E1C77}|MinimalAPI.API\\MinimalAPI.API.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A68AB13-BB7B-486D-8402-798DC78E1C77}|MinimalAPI.API\\MinimalAPI.API.csproj|solutionrelative:minimalapi.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}|MinimalAPI.Model\\MinimalAPI.Model.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.model\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}|MinimalAPI.Model\\MinimalAPI.Model.csproj|solutionrelative:minimalapi.model\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\services\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\services\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\servicefactory\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\servicefactory\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\services\\ticketsreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\services\\ticketsreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\extensions\\iconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\extensions\\iconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\controllers\\servicelocatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\controllers\\servicelocatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\minimalapi.servicelocator.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\minimalapi.servicelocator.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\helper\\servicemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\helper\\servicemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}|MinimalAPI.Model\\MinimalAPI.Model.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}|MinimalAPI.Model\\MinimalAPI.Model.csproj|solutionrelative:minimalapi.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B6A4165-5FBE-49EB-B6E0-01D861C858F4}|MinimalAPI.Data\\MinimalAPI.Data.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B6A4165-5FBE-49EB-B6E0-01D861C858F4}|MinimalAPI.Data\\MinimalAPI.Data.csproj|solutionrelative:minimalapi.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\servicefactory\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\servicefactory\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\services\\contracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\services\\contracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.architecture\\minimalapi.architecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|solutionrelative:minimalapi.architecture\\minimalapi.architecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|solutionrelative:minimalapi.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.architecture\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|solutionrelative:minimalapi.architecture\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.architecture\\providers\\restprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,12 +87,32 @@
       "RelativeMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|solutionrelative:minimalapi.architecture\\extensions\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.architecture\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF69026-5086-4DAA-9AAD-A696B597EE2E}|MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj|solutionrelative:minimalapi.architecture\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\minimalapi.servicelocator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\minimalapi.servicelocator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A68AB13-BB7B-486D-8402-798DC78E1C77}|MinimalAPI.API\\MinimalAPI.API.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A68AB13-BB7B-486D-8402-798DC78E1C77}|MinimalAPI.API\\MinimalAPI.API.csproj|solutionrelative:minimalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C80D57-FAF3-48A0-9A3E-280CB68EA0F4}|MnimalAPI.Core\\MnimalAPI.Core.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\mnimalapi.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C80D57-FAF3-48A0-9A3E-280CB68EA0F4}|MnimalAPI.Core\\MnimalAPI.Core.csproj|solutionrelative:mnimalapi.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\minimalapi.servicelocator.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\minimalapi.servicelocator.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6A4165-5FBE-49EB-B6E0-01D861C858F4}|MinimalAPI.Data\\MinimalAPI.Data.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6A4165-5FBE-49EB-B6E0-01D861C858F4}|MinimalAPI.Data\\MinimalAPI.Data.csproj|solutionrelative:minimalapi.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi.servicelocator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A24EBB9-DBA4-437B-8AA9-7D6234014E4B}|MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj|solutionrelative:minimalapi.servicelocator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -314,111 +330,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicketsService.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.API\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.API\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.API\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "MinimalAPI.API\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T00:46:10.551Z",
+              "WhenOpened": "2025-10-20T01:32:07.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "IConfigurationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Extensions\\IConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Extensions\\IConfigurationExtensions.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Extensions\\IConfigurationExtensions.cs",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Extensions\\IConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:30:03.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TicketsReadService.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsReadService.cs",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Services\\TicketsReadService.cs",
               "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsReadService.cs",
               "RelativeToolTip": "MinimalAPI.ServiceLocator\\Services\\TicketsReadService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:33:39.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ServiceFactory.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\ServiceFactory\\ServiceFactory.cs",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\ServiceFactory\\ServiceFactory.cs",
               "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\ServiceFactory\\ServiceFactory.cs",
               "RelativeToolTip": "MinimalAPI.ServiceLocator\\ServiceFactory\\ServiceFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:28:27.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IServiceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T00:28:12.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T00:15:16.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ServiceControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Controllers\\ServiceControllerBase.cs",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Controllers\\ServiceControllerBase.cs",
               "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Controllers\\ServiceControllerBase.cs",
               "RelativeToolTip": "MinimalAPI.ServiceLocator\\Controllers\\ServiceControllerBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwD0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:07:13.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MnimalAPI.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "MnimalAPI.Core\\Class1.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MnimalAPI.Core\\Class1.cs",
-              "RelativeToolTip": "MnimalAPI.Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T00:04:43.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Program.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Program.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Program.cs",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T19:04:08.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Properties\\launchSettings.json",
@@ -431,176 +408,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.json",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\appsettings.json",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.json",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T19:03:25.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MinimalAPI.ServiceLocator.http",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-20T00:05:19.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Model\\Class1.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.Model\\Class1.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Model\\Class1.cs",
-              "RelativeToolTip": "MinimalAPI.Model\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Model\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.Model\\TicketDTO.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Model\\TicketDTO.cs",
+              "RelativeToolTip": "MinimalAPI.Model\\TicketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:05:08.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Data\\Class1.cs",
-              "RelativeToolTip": "MinimalAPI.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.API\\Program.cs",
+              "RelativeToolTip": "MinimalAPI.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T00:04:13.684Z",
+              "WhenOpened": "2025-10-19T17:24:37.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "MinimalAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\appsettings.json",
-              "RelativeToolTip": "MinimalAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T19:16:50.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ServiceLocatorController.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Controllers\\ServiceLocatorController.cs",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Controllers\\ServiceLocatorController.cs",
               "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Controllers\\ServiceLocatorController.cs",
               "RelativeToolTip": "MinimalAPI.ServiceLocator\\Controllers\\ServiceLocatorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T18:53:58.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.Development.json",
-              "RelativeToolTip": "MinimalAPI.ServiceLocator\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T19:35:56.68Z",
+              "DocumentIndex": 10,
+              "Title": "ServiceMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Helper\\ServiceMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:15:16.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
+              "Title": "TicketsService.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:46:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\Contracts\\IService.cs",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Services\\Contracts\\IService.cs",
               "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\Contracts\\IService.cs",
               "RelativeToolTip": "MinimalAPI.ServiceLocator\\Services\\Contracts\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T19:06:40.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "HttpClientExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
-              "RelativeToolTip": "MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Program.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Program.cs",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:54:16.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "StringExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
-              "RelativeToolTip": "MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:54:21.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RestProviderHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
-              "RelativeToolTip": "MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:54:24.818Z",
+              "WhenOpened": "2025-10-19T19:04:08.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "JsonProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
-              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
-              "RelativeToolTip": "MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:56:16.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "RestProvider.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\RestProvider.cs",
               "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Providers\\RestProvider.cs",
               "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\RestProvider.cs",
               "RelativeToolTip": "MinimalAPI.Architecture\\Providers\\RestProvider.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:54:30.041Z",
+              "WhenOpened": "2025-10-19T17:54:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\ServiceFactory\\IServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:28:12.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
+              "Title": "JsonProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
+              "RelativeToolTip": "MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:56:16.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DateTimeExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\DateTimeExtensions.cs",
               "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Extensions\\DateTimeExtensions.cs",
@@ -608,19 +544,139 @@
               "RelativeToolTip": "MinimalAPI.Architecture\\Extensions\\DateTimeExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:54:14.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T17:54:14.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MinimalAPI.Architecture.csproj",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj",
+              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj",
+              "RelativeToolTip": "MinimalAPI.Architecture\\MinimalAPI.Architecture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T01:13:12.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RestProviderHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
+              "RelativeToolTip": "MinimalAPI.Architecture\\Helpers\\RestProviderHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:54:24.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "MinimalAPI.Architecture\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:54:21.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "RelativeToolTip": "MinimalAPI.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:54:16.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MinimalAPI.ServiceLocator.csproj",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T01:15:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\appsettings.json",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.json",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T19:03:25.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MInimalAPI.API\\Program.cs",
-              "RelativeDocumentMoniker": "MInimalAPI.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MInimalAPI.API\\Program.cs",
-              "RelativeToolTip": "MInimalAPI.API\\Program.cs",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MnimalAPI.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "MnimalAPI.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MnimalAPI.Core\\Class1.cs",
+              "RelativeToolTip": "MnimalAPI.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:24:37.682Z"
+              "WhenOpened": "2025-10-20T00:04:43.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MinimalAPI.ServiceLocator.http",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\MinimalAPI.ServiceLocator.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-20T00:05:19.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "MinimalAPI.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Data\\Class1.cs",
+              "RelativeToolTip": "MinimalAPI.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:04:13.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\appsettings.json",
+              "RelativeToolTip": "MinimalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T19:16:50.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\appsettings.Development.json",
+              "RelativeToolTip": "MinimalAPI.ServiceLocator\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T19:35:56.68Z"
             }
           ]
         },
