@@ -1,3 +1,7 @@
+using MinimalAPI.Architecture.Providers;
+using MinimalAPI.ServiceLocator.ServiceFactory;
+using MinimalAPI.ServiceLocator.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,9 +11,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddHttpClient();
 
-// builder.Services.AddScoped<IServiceFactory, ServiceFactory>();
-// builder.Services.AddScoped<TicketsReadService>();
-// builder.Services.AddScoped<TicketsService>();     
+builder.Services.AddScoped<IServiceFactory, ServiceFactory>();
+builder.Services.AddScoped<TicketsReadService>();
+builder.Services.AddScoped<TicketsService>();     
 
 var app = builder.Build();
 
