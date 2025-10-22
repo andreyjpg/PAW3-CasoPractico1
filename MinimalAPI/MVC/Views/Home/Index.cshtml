@@ -1,0 +1,180 @@
+﻿@model IEnumerable<Core.DTOs.TicketDTO>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Tickets</h1>
+
+    <div class="row mb-4">
+        <div class="col"> 
+            <div class="border border-1 bg-body-secondary rounded-2 border-dark-subtle p-4">
+                <span> Number of Tickets </span>
+                <span>@Model.Count()</span>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="mb-4 text-center">
+            <button id="addTicketBtn" class="btn btn-primary">+ Add Ticket</button>
+        </div>
+        <div id="addTicketForm" class="container mb-4 d-none">
+            <div class="row justify-content-center">
+                <div class="col-6 border p-3 rounded bg-light">
+                    <h5 class="mb-3">New Ticket</h5>
+                    <input id="newName" type="text" class="form-control mb-2" placeholder="Name" />
+                    <textarea id="newDescription" class="form-control mb-2" placeholder="Description"></textarea>
+                    <input id="createdBy" type="text" class="form-control mb-2" placeholder="Reporter email" />
+                    <button id="saveTicketBtn" class="btn btn-success">Save</button>
+                    <button id="cancelTicketBtn" class="btn btn-outline-danger">Cancel</button>
+                </div>
+            </div>
+        </div>
+        <div class="row gap-2 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div id="ticket-@item.Id" class="col-3 border border-1 bg-body-secondary rounded-2 border-light-subtle py-4 px-3">
+                    <div class="row justify-content-between align-items-center">
+                        
+                        <span class="col text-dark text-start ps-3">Ticket Id# @item.Id</span>
+                        <div class="col text-end">
+                            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                ...
+                              </button>
+                              <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" data-id="@item.Id" id="edit-@item.Id" href="#">Edit</a></li>
+                                <li><a class="dropdown-item" href="#">Delete</a></li>
+                                @if (item.Status)
+                                {
+                                    <li><a class="dropdown-item" href="#">Close Ticket </a></li>
+                                } else
+                                {
+                                    <li><a class="dropdown-item" href="#">Open Ticket</a></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col  d-flex w-100 ">
+                        @if (item.Status)
+                        {
+                            <div class="p-1 bg-success border rounded-2 text-light border-success-subtle w-50">Open</div>
+                        }
+                        else
+                        {
+                            <div class="p-1 bg-danger border rounded-2 text-light border-danger-subtle w-50">Closed</div>
+                        }
+                    </div>
+                    
+                    
+                    <div class="row mt-3 fw-bold">
+                        <p data-field="name" id="name-@item.Id">
+                            @item.Name
+                        </p>
+                    </div>
+                    <div class="row">
+                        <p data-field="description" id="description-@item.Id">
+                            @item.Description
+                        </p>
+                    </div>
+                    <div class="row text-dark justify-content-between mt-2">
+                        <span class="col font-xs text-center">Created by: @item.CreatedBy</span>
+                    </div>
+                    <div class="row text-dark justify-content-between">
+                        <span class="col font-xs text-center">Created At: @item.CreatedDate</span>
+                    </div>
+                </div>
+            }
+        </div>
+        
+    </div>
+    
+</div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+        //Take all the edit button
+        document.querySelectorAll('[id^="edit-"]').forEach(button => {
+
+            button.addEventListener("click", function (e) {
+                e.preventDefault();
+                //take elements by Id 
+                const id = button.id.split("-")[1]; //obtain id
+                const nameEl = document.getElementById(`name-${id}`);
+                const descEl = document.getElementById(`description-${id}`);
+                const card = document.getElementById(`ticket-${id}`);
+
+                const editing = card.dataset.editing === "true";
+
+                if (!editing) {
+                    const nameVal = nameEl.innerText.trim();
+                    const descVal = descEl.innerText.trim();
+                    //change from text to input
+                    nameEl.innerHTML = `<input id="input-name-${id}" class="form-control form-control-sm" value="${nameVal}" />`;
+                    descEl.innerHTML = `<textarea id="input-desc-${id}" class="form-control form-control-sm" rows="2">${descVal}</textarea>`;
+
+                    button.innerText = "Save";
+                    card.dataset.editing = "true";
+                } else {
+                    //return to text
+                    const newName = document.getElementById(`input-name-${id}`).value;
+                    const newDesc = document.getElementById(`input-desc-${id}`).value;
+
+                    nameEl.innerHTML = newName;
+                    descEl.innerHTML = newDesc;
+                    button.innerText = "Edit";
+                    card.dataset.editing = "false";
+
+                    /*
+                    fetch(`/api/tickets/${id}`, {
+                        method: "PUT",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                            name: newName,
+                            description: newDesc
+                        })
+                    })
+                    .then(r => r.ok ? alert("Ticket updated!") : alert("Error updating ticket"));
+                    */
+                }
+            });
+        });
+    });
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const addBtn = document.getElementById("addTicketBtn");
+        const form = document.getElementById("addTicketForm");
+        const saveBtn = document.getElementById("saveTicketBtn");
+        const cancelBtn = document.getElementById("cancelTicketBtn");
+        const container = document.querySelector(".row.gap-2.justify-content-center"); // donde se renderizan los tickets
+
+        addBtn.addEventListener("click", () => {
+            form.classList.remove("d-none");
+            addBtn.classList.add("d-none");
+        });
+
+        cancelBtn.addEventListener("click", () => {
+            form.classList.add("d-none");
+            addBtn.classList.remove("d-none");
+        });
+
+        saveBtn.addEventListener("click", async () => {
+            const name = document.getElementById("newName").value.trim();
+            const description = document.getElementById("newDescription").value.trim();
+            let createdBy = document.getElementById("createdBy").value.trim();
+
+            if (!name || !description) {
+                alert("Please fill out all fields");
+                return;
+            }
+
+            if(createdBy.lenght > 0) {
+                createdBy = "Computer"
+            }
+            
+        });
+    });
+</script>

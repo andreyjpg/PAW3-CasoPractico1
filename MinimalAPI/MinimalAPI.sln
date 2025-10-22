@@ -16,6 +16,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MnimalAPI.Core", "MnimalAPI.Core\MnimalAPI.Core.csproj", "{F0C80D57-FAF3-48A0-9A3E-280CB68EA0F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.Model", "MinimalAPI.Model\MinimalAPI.Model.csproj", "{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{AB57B73A-3D1D-4F62-953D-A8457E2FD023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D79BACE9-9AEC-4445-9346-1140409EEDA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +54,14 @@ Global
 		{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75CA4CCA-DCD7-4265-AF66-BB634AA409B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB57B73A-3D1D-4F62-953D-A8457E2FD023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB57B73A-3D1D-4F62-953D-A8457E2FD023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB57B73A-3D1D-4F62-953D-A8457E2FD023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB57B73A-3D1D-4F62-953D-A8457E2FD023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79BACE9-9AEC-4445-9346-1140409EEDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79BACE9-9AEC-4445-9346-1140409EEDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79BACE9-9AEC-4445-9346-1140409EEDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79BACE9-9AEC-4445-9346-1140409EEDA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

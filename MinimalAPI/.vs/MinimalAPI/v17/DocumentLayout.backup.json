@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\",
   "Documents": [
     {
@@ -112,6 +113,48 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\valeria\\source\\repos\\paw3-casopractico1\\minimalapi\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\minimalapi\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\mvc\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\mvc\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB57B73A-3D1D-4F62-953D-A8457E2FD023}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\minimalapi\\context\\itsupportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\context\\itsupportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|c:\\users\\andre\\documents\\fidelitas\\progra web avanzada\\paw3-casopractico1\\minimalapi\\minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+>>>>>>> MinimalAPI
       "RelativeMoniker": "D:0:0:{073606F0-6978-4457-A2E5-8BB6466810B8}|MinimalAPI\\MinimalAPI.csproj|solutionrelative:minimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -122,7 +165,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
+<<<<<<< HEAD
           "SelectedChildIndex": 58,
+=======
+          "SelectedChildIndex": 54,
+>>>>>>> MinimalAPI
           "Children": [
             {
               "$type": "Bookmark",
@@ -331,6 +378,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "TicketsController.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.API\\Controllers\\TicketsController.cs",
               "RelativeDocumentMoniker": "MinimalAPI.API\\Controllers\\TicketsController.cs",
@@ -404,11 +452,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-19T19:03:31.065Z",
+=======
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T05:16:15.879Z",
+>>>>>>> MinimalAPI
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "TicketDTO.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Model\\TicketDTO.cs",
               "RelativeDocumentMoniker": "MinimalAPI.Model\\TicketDTO.cs",
@@ -456,11 +515,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:15:16.356Z",
+=======
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "MVC\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "MVC\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-19T05:15:11.668Z",
+>>>>>>> MinimalAPI
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "TicketsService.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
               "RelativeDocumentMoniker": "MinimalAPI.ServiceLocator\\Services\\TicketsService.cs",
@@ -469,10 +539,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:46:10.551Z",
+=======
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "MVC\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T04:23:53.841Z",
+>>>>>>> MinimalAPI
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Services\\Contracts\\IService.cs",
@@ -482,10 +563,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T19:06:40.321Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T04:17:59.989Z",
+>>>>>>> MinimalAPI
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.ServiceLocator\\Program.cs",
@@ -495,10 +588,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T19:04:08.835Z",
+=======
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T04:05:38.115Z",
+>>>>>>> MinimalAPI
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
               "Title": "RestProvider.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\RestProvider.cs",
@@ -520,10 +625,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T00:28:12.741Z",
+=======
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T05:10:50.094Z",
+>>>>>>> MinimalAPI
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
               "Title": "JsonProvider.cs",
               "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI.Architecture\\Providers\\JsonProvider.cs",
@@ -677,6 +794,56 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-19T19:35:56.68Z"
+=======
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\appsettings.json",
+              "RelativeToolTip": "MinimalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T04:44:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\Program.cs",
+              "RelativeToolTip": "MinimalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:20:06.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITSupportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\Context\\ITSupportDbContext.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Context\\ITSupportDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\Context\\ITSupportDbContext.cs",
+              "RelativeToolTip": "MinimalAPI\\Context\\ITSupportDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:17:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\Model\\Ticket.cs",
+              "RelativeDocumentMoniker": "MinimalAPI\\Model\\Ticket.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\fidelitas\\progra web avanzada\\PAW3-CasoPractico1\\MinimalAPI\\MinimalAPI\\Model\\Ticket.cs",
+              "RelativeToolTip": "MinimalAPI\\Model\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T02:22:12.385Z",
+              "EditorCaption": ""
+>>>>>>> MinimalAPI
             }
           ]
         },
